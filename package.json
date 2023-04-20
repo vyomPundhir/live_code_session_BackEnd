@@ -1,0 +1,21 @@
+{
+  "name": "live_code_session_backend",
+  "version": "1.0.0",
+  "description": "A backend for E commerce App",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Course"
+  ],
+  "author": "Vyom",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4"
+  }
+}

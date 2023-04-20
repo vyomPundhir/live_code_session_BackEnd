@@ -1,0 +1,4 @@
+node_modules/
+.devcontainer/Dockerfile
+.devcontainer/docker-compose.yml
+.devcontainer/devcontainer.json
